@@ -58,6 +58,7 @@ When I’m not coding, I’m probably climbing rocks or exploring new matcha spo
 ## 🧑‍💻 Work
 
 I currently work at  **[Badger Maps](https://www.badgermapping.com/)**, an app that helps field teams save time and sell more. At Badger, I build tools that connect complex datasets, optimize workflows, and create intuitive user experiences. My work spans backend infrastructure, asynchronous servers, frontend development, and integrations with platforms like HubSpot, Salesforce, and Zoho.
+
  ---
  
 ## 📫 How to reach me
