@@ -11,19 +11,20 @@ When I’m not coding, I’m probably climbing rocks or exploring new matcha spo
 
 ## 🔥 Featured Projects
 
+> ### ⚡️ Featured Project: [CLI - Lazy DB](https://github.com/rubengardner/lazy-database)  
+> **Explore and visualize your databases with this simple CLI tool.**  
+> 🚧 _Currently in active development — seeking experienced Go collaborators!_  
+> 💡 Open to ideas, contributions, and team-ups.
+
+--- 
+
 ### [Hix -  Neovim & Ollama Workflow](https://github.com/rubengardner/neovim-ollama)  
 *A Neovim plugin integrating AI features powered by Ollama, designed for terminal-first workflows.*  
 
 ---
 
-### [CLI - Lazy DB](https://github.com/rubengardner/lazy-database)  
-*A simple and efficient CLI tool to quickly explore and visualize your databases without hassle.*
-
----
-
 ### [Quick Command](https://github.com/rubengardner/quick-command)  
 *A productivity-boosting Chrome extension for customizable, instant commands with a slick UI and smooth animations.*  
-
 
 ---
 
