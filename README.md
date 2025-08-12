@@ -63,8 +63,8 @@ I currently work at **[Badger Maps](https://www.badgermapping.com/)** , where I 
  
 ## 📫 How to reach me
 
-- [Personal email](rgardnercuesta@example.com)
-- [Work email](ruben.gardner@badgermapping.com)
+- Personal email: rgardnercuesta@example.com
+- Work email: ruben.gardner@badgermapping.com
 - [Linkedin](https://www.linkedin.com/in/ruben-david-gardner-cuesta-bbb69b167/)
 
 ---
