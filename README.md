@@ -20,6 +20,7 @@ When I’m not coding, I’m probably climbing rocks or exploring new matcha spo
 
 ### [Hix -  Neovim & Ollama Workflow](https://github.com/rubengardner/neovim-ollama)  
 *A Neovim plugin integrating AI features powered by Ollama, designed for terminal-first workflows.*  
+> 🚧 _Currently in active development — Solo project!_  
 
 ---
 
