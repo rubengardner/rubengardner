@@ -12,7 +12,7 @@ When I’m not coding, I’m probably climbing rocks or exploring new matcha spo
 ## 🔥 Projects
 
 ### ⚡️ Featured Project: [CLI - Lazy DB](https://github.com/rubengardner/lazy-database)  
-> **Explore and visualize your databases with this simple CLI tool.**  
+*Explore and visualize your databases with this simple CLI tool.*
 > 🚧 _Currently in active development — seeking experienced Go collaborators!_  
 > 💡 Open to ideas, contributions, and team-ups.
 
