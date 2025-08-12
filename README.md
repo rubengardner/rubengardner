@@ -56,7 +56,7 @@ When I’m not coding, I’m probably climbing rocks or exploring new matcha spo
 
 - [Personal email](rgardnercuesta@example.com)
 - [Work email](ruben.gardner@badgermapping.com)
--[Linkedin](https://www.linkedin.com/in/ruben-david-gardner-cuesta-bbb69b167/)
+- [Linkedin](https://www.linkedin.com/in/ruben-david-gardner-cuesta-bbb69b167/)
 
 ---
 
