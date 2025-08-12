@@ -36,13 +36,21 @@ When I’m not coding, I’m probably climbing rocks or exploring new matcha spo
 
 ## 🛠️ Tech Stack
 
-### ⚙️ Asynchronous Servers & Data Workflows  
+### ⚙️ Backend & Data Workflows
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-389B43?style=for-the-badge)  
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge)  
-![Celery](https://img.shields.io/badge/Celery-389B43?style=for-the-badge)  
+
+### 🗄️ Databases & Storage
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)  
+
+### ☁️ Infrastructure, Cloud & CI/CD
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)  
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)  
 
 ### 🌐 Web UI & Frontend  
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
@@ -51,7 +59,6 @@ When I’m not coding, I’m probably climbing rocks or exploring new matcha spo
 ### 💻 CLI Tools & Editors  
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)  
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)  
-
 
 ---
 
