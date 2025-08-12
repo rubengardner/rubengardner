@@ -37,8 +37,6 @@ When I’m not coding, I’m probably climbing rocks or exploring new matcha spo
 
 ### ⚙️ Asynchronous Servers & Data Workflows  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Python Sync 🔄](https://img.shields.io/badge/Python_Sync-%233776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000000) 🔄
-![Python Async ⚡](https://img.shields.io/badge/Python_Async-%233776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000000) ⚡
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge)  
 ![Celery](https://img.shields.io/badge/Celery-389B43?style=for-the-badge)  
