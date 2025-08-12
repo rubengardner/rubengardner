@@ -11,13 +11,13 @@ When I’m not coding, I’m probably climbing rocks or exploring new matcha spo
 
 ## 🔥 Featured Projects
 
-### [Neovim AI Extension](https://github.com/rubengardner/neovim-db-ollama)  
-*A Neovim plugin integrating database visualization and AI features powered by Ollama, designed for terminal-first workflows.*  
+### [Hix -  Neovim & Ollama Workflow](https://github.com/rubengardner/neovim-ollama)  
+*A Neovim plugin integrating AI features powered by Ollama, designed for terminal-first workflows.*  
 
 ---
 
-### CLI Tools in Go  
-*Command-line utilities focused on developer experience and seamless integration with everyday workflows.*
+### [CLI - Lazy DB](https://github.com/rubengardner/lazy-database)  
+*A simple and efficient CLI tool to quickly explore and visualize your databases without hassle.*
 
 ---
 
