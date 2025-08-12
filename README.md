@@ -49,12 +49,18 @@ When I’m not coding, I’m probably climbing rocks or exploring new matcha spo
 ## 🧑‍💻 Work
 
  I currently work at Badger Maps, where I build tools that connect complex datasets, optimize workflows, and create intuitive user experiences. My work spans backend systems, frontend development, and integrations with platforms like Salesforce, Zoho, and HubSpot. 
+
+ ---
+ 
 ## 📫 How to reach me
 
 - [Personal email](rgardnercuesta@example.com)
 - [Work email](ruben.gardner@badgermapping.com)
+-[Linkedin](https://www.linkedin.com/in/ruben-david-gardner-cuesta-bbb69b167/)
 
 ---
 
-Thanks for stopping by — feel free to explore my repos or reach out for collaboration!
+Thanks for stopping by! Feel free to explore my projects or reach out if you want to collaborate. And hey, if you climb between 6b and 7c sport grades—or V4 to V8 bouldering—let’s team up for a getaway filled with coding and climbing adventures!
+
+
 
