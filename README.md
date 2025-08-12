@@ -9,7 +9,7 @@ When I’m not coding, I’m probably climbing rocks or exploring new matcha spo
 
 ---
 
-## 🔥 Featured Projects
+## 🔥 Projects
 
 ### ⚡️ Featured Project: [CLI - Lazy DB](https://github.com/rubengardner/lazy-database)  
 > **Explore and visualize your databases with this simple CLI tool.**  
