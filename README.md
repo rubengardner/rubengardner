@@ -3,7 +3,7 @@
 
 ## 🚀 About Me
 
-I’m a backend-focused full-stack developer passionate about building clean, scalable systems and smart automation tools. My work spans asynchronous data infrastructure, CLI tooling, AI-powered simulations, and intuitive frontend experiences.  
+I’m a Backend-focused full-stack developer with an emphasis on clean, scalable systems and long-term architectural health. My work spans asynchronous data infrastructure, CLI tooling, AI-powered simulations, and intuitive frontend experiences.  
 
 When I’m not coding, I’m probably climbing rocks or exploring new matcha spots.
 
