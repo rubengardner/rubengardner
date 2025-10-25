@@ -24,6 +24,12 @@ When I’m not coding, I’m probably climbing rocks or exploring new matcha spo
 
 ---
 
+### [Spark Phoenix](https://github.com/rubengardner/spark-phoenix)
+*Real-time web app built with Elixir + Phoenix, integrating a Go controller powered by Charm’s Bubbletea framework.*
+> ✨ Because sometimes you need distributed systems and message queues… to paint a few colorful pixels. 
+
+---
+
 ### [Quick Command](https://github.com/rubengardner/quick-command)  
 *A productivity-boosting Chrome extension for customizable, instant commands with a slick UI and smooth animations.*  
 
